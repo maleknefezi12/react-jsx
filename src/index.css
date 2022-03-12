@@ -13,6 +13,8 @@ html,body{
   background-repeat: no-repeat;
   height: 100%;
   font-family: 'Numans', sans-serif;
+  
+
   }
 
 code {
@@ -36,5 +38,7 @@ code {
     }
     .form-contact{
       border: 2px solid #fff;
-      padding: 2em;     
+      padding: 2em;  
+      color: #0dcaf0;   
     }
+  
